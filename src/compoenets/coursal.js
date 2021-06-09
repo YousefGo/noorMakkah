@@ -48,19 +48,21 @@ const Caroousel = (props) => {
 
   const slides = items.map((item) => {
     return (
-      <CarouselItem
+      <CarouselItem  
         onExiting={() => setAnimating(true)}
         onExited={() => setAnimating(false)}
         key={item.src}
       >
-        <img src={item.src} alt={item.altText} />
+        <img src={item.src}  className="w-50 col-md-8 offset-3"  alt={item.altText} />
         <CarouselCaption captionText={item.caption} captionHeader={item.caption} />
       </CarouselItem>
     );
   });
 
   return (
-    <Carousel className="col-md-10 "
+    <div >
+     
+     <Carousel className="row bg-dark"
       activeIndex={activeIndex}
       next={next}
       previous={previous}
@@ -70,6 +72,9 @@ const Caroousel = (props) => {
       <CarouselControl direction="prev" directionText="Previous" onClickHandler={previous} />
       <CarouselControl direction="next" directionText="Next" onClickHandler={next} />
     </Carousel>
+     </div>
+
+  
   );
 }
 
