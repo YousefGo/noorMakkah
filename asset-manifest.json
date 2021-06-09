@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/noorMakkah/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/noorMakkah/static/js/main.7636a23e.chunk.js",
+    "main.js.map": "/noorMakkah/static/js/main.7636a23e.chunk.js.map",
+    "runtime-main.js": "/noorMakkah/static/js/runtime-main.9cccbe22.js",
+    "runtime-main.js.map": "/noorMakkah/static/js/runtime-main.9cccbe22.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/noorMakkah/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b34b1a48.chunk.js": "/noorMakkah/static/js/2.b34b1a48.chunk.js",
+    "static/js/2.b34b1a48.chunk.js.map": "/noorMakkah/static/js/2.b34b1a48.chunk.js.map",
+    "static/js/3.1c9050d6.chunk.js": "/noorMakkah/static/js/3.1c9050d6.chunk.js",
+    "static/js/3.1c9050d6.chunk.js.map": "/noorMakkah/static/js/3.1c9050d6.chunk.js.map",
+    "index.html": "/noorMakkah/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/noorMakkah/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/noorMakkah/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b34b1a48.chunk.js.LICENSE.txt": "/noorMakkah/static/js/2.b34b1a48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cccbe22.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b34b1a48.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7636a23e.chunk.js"
+  ]
+}
