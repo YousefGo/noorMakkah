@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/noorMakkah/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/noorMakkah/static/js/main.e09cd745.chunk.js",
-    "main.js.map": "/noorMakkah/static/js/main.e09cd745.chunk.js.map",
+    "main.js": "/noorMakkah/static/js/main.ffb29bad.chunk.js",
+    "main.js.map": "/noorMakkah/static/js/main.ffb29bad.chunk.js.map",
     "runtime-main.js": "/noorMakkah/static/js/runtime-main.9cccbe22.js",
     "runtime-main.js.map": "/noorMakkah/static/js/runtime-main.9cccbe22.js.map",
     "static/css/2.61b4cb56.chunk.css": "/noorMakkah/static/css/2.61b4cb56.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.b34b1a48.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e09cd745.chunk.js"
+    "static/js/main.ffb29bad.chunk.js"
   ]
 }
