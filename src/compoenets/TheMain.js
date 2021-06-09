@@ -4,7 +4,7 @@ import Coursal from './coursal'
     render() {
         return (
             <div className="row">
-            <div className="col-md-8 offset-2">
+            <div >
             <Coursal/>
    
             </div>
